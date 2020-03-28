@@ -27,7 +27,7 @@ module.exports = {
              uf,
          })
     
-     //   console.log("\nnovo cadastro:\n Nome: "+name+"\n Id: "+id)+"\n";
+    console.log({id});
     
         return response.json({ id });
    }
